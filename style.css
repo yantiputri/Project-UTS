@@ -150,7 +150,7 @@ header {
 }
 .About{
     background-color: rgb(236, 235, 231);
-    width: 50%;
+    width: 45%;
     height: 250px;
     font-size: 1.4em;
     border-radius: 20px;
@@ -160,7 +160,7 @@ header {
 .right {
     background-color: brown;
     color: #fff;
-    width: 50%;
+    width: 45%;
     height: 250px;
     padding-right: 38px;
     font-size: 1.4em;
